@@ -61,7 +61,7 @@ export const SingleRepo = () => {
       <CircularProgress
         color="primary"
         label="Loading..."
-        className="self-center"
+        className="self-center text-white"
       />
     );
   }

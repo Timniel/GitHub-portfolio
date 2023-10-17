@@ -57,7 +57,9 @@ export const RepoList = () => {
   }, []);
 
   if (loading) {
-    return <CircularProgress label="Loading..." className="self-center" />;
+    return (
+      <CircularProgress label="Loading..." className="self-center text-white" />
+    );
   }
   if (error) {
     throw error;
