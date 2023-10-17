@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Timniel/Bootstrap-QR-code-component.git
    ```
 
 2. Change to the project directory:
